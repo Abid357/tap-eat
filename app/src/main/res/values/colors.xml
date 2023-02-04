@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="vendorList">#CC0000</color>
+    <color name="menuList">#0066CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="deleteButton">#CC0000</color>>
+    <color name="addButton">#00CC00</color>
+    <color name="updateButton">#0080FF</color>
+    <color name="browseButton">#606060</color>
+    <color name="splashScreen">#CCE5FF</color>
 </resources>

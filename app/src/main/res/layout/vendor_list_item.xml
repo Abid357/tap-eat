@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/vendorImageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:paddingTop="8sp"
+        android:scaleType="fitCenter"/>
+
+    <TextView
+        android:id="@+id/vendorTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="205dp"
+        android:gravity="right"
+        android:text="Restaurant Name"
+        android:textColor="@color/vendorList"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
